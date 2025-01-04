@@ -1,6 +1,9 @@
 # Python_Caculater
 cursur ai 결제하고 첫 번째로 만든 프로젝트입니다. 감사합니다.
 
+![image](https://github.com/user-attachments/assets/a96c527c-4766-4507-87ae-15c4a153e882)
+
+
 # 계산기 애플리케이션
 
 PyQt5를 이용해 만든 Windows 계산기 클론 애플리케이션입니다.
