@@ -185,7 +185,7 @@ class Calculator(QWidget):
         self.setWindowFlags(Qt.WindowStaysOnTopHint)
         
         # 윈도우 아이콘 설정
-        app_icon = QIcon('img.ico')
+        app_icon = QIcon('./test/img.ico')
         self.setWindowIcon(app_icon)
         
         # 메모리 버튼 이벤트 연결
