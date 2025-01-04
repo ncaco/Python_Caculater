@@ -31,7 +31,7 @@ PyQt5를 이용해 만든 Windows 계산기 클론 애플리케이션입니다.
 
 3. 프로그램 실행
    ```bash
-   python nCaCoCal.py
+   python t001.py
    ```
 
 ## 배포 과정
@@ -45,7 +45,7 @@ PyQt5를 이용해 만든 Windows 계산기 클론 애플리케이션입니다.
 
 2. 실행 파일 생성
    ```bash
-   pyinstaller --onefile --windowed --icon=img.ico nCaCoCal.py
+   pyinstaller --onefile --windowed --icon=img.ico t001.py
    ```
 
 3. dist 폴더에서 생성된 calculator.exe 파일을 실행
